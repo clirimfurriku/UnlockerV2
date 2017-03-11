@@ -1,11 +1,5 @@
 @echo off
 mode con:cols=157
-::Unlocer By Clirim Furriu
-::build on 25.10.2016
-::I wish you happy birthday.
-::Thanks for everything :)
-::Anyway this is only an premanent update menu for limited time
-
 :UPMENU
 COLOR 2A
 CLS
